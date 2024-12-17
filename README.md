@@ -16,20 +16,13 @@
    cd cnn_esc_50/CNN-ECS-5
    ```
 
-2. **Build the Docker Image**
+2. **Build and run the Docker**
 
-  In the project directory, run the following command to build the Docker image
    ```bash  
-   docker build -t your_container_name -f Dockerfile.dockerfile .
+   docker-compose up -d
    ```
-
-3. **Run the Docker Container**
    
-  Start the project by running:
-  ```bash  
-  docker run -it -p 8000:8000 your_container_name
-  ```
-4. **Access the Application**
+3. **Access the Application**
 
 Open your web browser and visit http://localhost:8000. You should see the FastAPI interface.
 

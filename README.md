@@ -24,7 +24,7 @@
    
 3. **Access the Application**
 
-Open your web browser and visit http://localhost:8000. You should see the FastAPI interface.
+   Open your web browser and visit http://localhost:8000. You should see the FastAPI interface.
 
  ## Usage Examples
  1. **Sign up**
@@ -33,15 +33,15 @@ Open your web browser and visit http://localhost:8000. You should see the FastAP
 
     ![image](https://github.com/user-attachments/assets/94d18d4a-3246-4536-ba4c-3cab80a2ac55)
 
-2.**Log in**
+2. **Log in**
 
    ![image](https://github.com/user-attachments/assets/81686505-9882-400e-a4b7-4e683f5295a9)
 
-3.**Upload wav.file for sound classification**
+3. **Upload wav.file for sound classification**
 
    ![image](https://github.com/user-attachments/assets/619d51de-c3ff-4d75-b639-7cbc2f2b8311)
 
-4.**Get the result**
+4. **Get the result**
 
    ![image](https://github.com/user-attachments/assets/4acbd833-982c-4b5c-8d85-1f6e2068c440)
 
